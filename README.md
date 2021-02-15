@@ -1,1 +1,1 @@
-[![Build status](https://ci.appveyor.com/api/projects/status/unp2in3et5s913oi/branch/main?svg=true)](https://ci.appveyor.com/project/vnvm5k/unit-homework/branch/main)
+[![Build status](https://ci.appveyor.com/api/projects/status/urtqccx06o70qrf2?svg=true)](https://ci.appveyor.com/project/vnvm5k/unit-homework-task3)
